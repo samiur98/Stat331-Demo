@@ -1,2 +1,2 @@
-# Stat331-Demo
+# Example Repository for Stat 331
 Demo Repository for Stat 331
